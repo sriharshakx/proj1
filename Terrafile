@@ -1,0 +1,6 @@
+vpc:
+  source:  "https://github.com/sriharshakx/tf-module-vpc.git"
+  version: "1.1"
+eks:
+  source:  "https://github.com/sriharshakx/tf-module-eks.git"
+  version: "1.1"
